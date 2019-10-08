@@ -1,13 +1,3 @@
-# 33183-Photoresistance-GROVE
-  Un pont diviseur avec une photorésistance comme module GROVE
-
-## Schéma
-![schema](/details/schematic.PNG)
-## Examples
-### mblock
-![mblock](/examples/mblock.PNG)
-### Arduino / C++
-```
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
@@ -23,7 +13,3 @@ void loop() {
   Serial.println("Luminosite : " + String(Luminosite) + "%");
   delay(1000);
 }
-```
-## Credits
-
-PIERRON ASCO-CELDA (https://www.pierron.fr/)
