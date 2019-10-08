@@ -1,6 +1,7 @@
 # 33183-Photoresistance-GROVE
   Un pont diviseur avec une photorésistance comme module GROVE
 
+![photoresistance 33183](/details/33183.jpg)
 ## Schéma
 ![schema](/details/schematic.PNG)
 ## Examples
@@ -24,6 +25,6 @@ void loop() {
   delay(1000);
 }
 ```
-## Credits
+## A propos
 
 PIERRON ASCO-CELDA (https://www.pierron.fr/)
