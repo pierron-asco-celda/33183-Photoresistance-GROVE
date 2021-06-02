@@ -20,6 +20,8 @@ Une photorésistance avec un pont diviseur sous le format grove.
 
 ### Arduino / C++ :
 ```cpp
+//Baud rate 115200
+
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
