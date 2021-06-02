@@ -10,13 +10,13 @@ Une photorésistance avec un pont diviseur sous le format grove.
 
 # Schémas :
 
-![SCH-33183](/img/SCH-33183.PNG)
-![BRD-33183](/img/BRD-33183.PNG)
+![SCH-33183](/img/SCH-33183.png)
+![BRD-33183](/img/BRD-33183.png)
 
 # Exemples :
 
 ### mBlock :
-![P1-33183](/img/P1-33183.PNG)
+![P1-33183](/img/P1-33183.png)
 
 ### Arduino / C++ :
 ```cpp
@@ -38,4 +38,4 @@ void loop() {
 ```
 ## À propos :
 
-PIERRON ASCO-CELDA (https://www.pierron.fr/)
+PIERRON ASCO-CELDA (https://www.pierron.fr/).
