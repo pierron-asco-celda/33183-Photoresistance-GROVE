@@ -8,6 +8,10 @@ Une photorésistance avec un pont diviseur sous le format grove.
 
 ![L-33183](/img/L-33183.jpg)
 
+# RESSOURCES À TÉLÉCHARGER :
+
+Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/33183-Photoresistance-GROVE/blob/master/src/Pierron-33183-Datasheet.pdf)
+
 # Schémas :
 
 ![SCH-33183](/img/SCH-33183.png)
