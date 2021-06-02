@@ -1,14 +1,25 @@
-# 33183-Photoresistance-GROVE
-  Un pont diviseur avec une photorésistance comme module GROVE
+# 33183-PHOTORÉSISTANCE-GROVE
 
-![photoresistance 33183](/details/33183.jpg)
-## Schéma
-![schema](/details/schematic.PNG)
-## Examples
-### mblock
-![mblock](/examples/mblock.PNG)
-### Arduino / C++
-```
+PHOTORÉSISTANCE-GROVE [33183](https://www.pierron.fr/photoresistance-grove.html)
+
+Une photorésistance avec un pont diviseur sous le format grove.
+- À la lumière du jour : R = 6 kΩ
+- Dans l’obscurité : R = 1 MΩ
+
+![L-33183](/img/L-33183.jpg)
+
+# Schémas :
+
+![SCH-33183](/img/SCH-33183.PNG)
+![BRD-33183](/img/BRD-33183.PNG)
+
+# Exemples :
+
+### mBlock :
+![P1-33183](/img/P1-33183.PNG)
+
+### Arduino / C++ :
+```cpp
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
@@ -25,6 +36,6 @@ void loop() {
   delay(1000);
 }
 ```
-## A propos
+## À propos :
 
 PIERRON ASCO-CELDA (https://www.pierron.fr/)
