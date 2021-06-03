@@ -2,7 +2,7 @@
 
 PHOTORÉSISTANCE-GROVE [33183](https://www.pierron.fr/photoresistance-grove.html)
 
-Une photorésistance avec un pont diviseur sous le format grove.
+Ce module au format Grove est constitué d'un pont diviseur de 100 kΩ associé à une photorésistance dont la résistivité varie avec la lumière reçue. 
 - À la lumière du jour : R = 6 kΩ
 - Dans l’obscurité : R = 1 MΩ
 
