@@ -1,4 +1,4 @@
-# 33183-PHOTORÉSISTANCE-GROVE
+# 33183 Photoresistance GROVE
 
 PHOTORÉSISTANCE-GROVE [33183](https://www.pierron.fr/photoresistance-grove.html)
 
