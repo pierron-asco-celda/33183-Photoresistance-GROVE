@@ -10,7 +10,7 @@ Ce module au format Grove est constitué d'un pont diviseur de 100 kΩ associé 
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/33183-Photoresistance-GROVE/blob/master/src/Pierron-33183-Datasheet.pdf)
+Ressource utilisation : [NORPS-12](https://github.com/pierron-asco-celda/33183-Photoresistance-GROVE/blob/master/src/Pierron-33183-Datasheet.pdf)
 
 # Schémas :
 
