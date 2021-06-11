@@ -24,7 +24,11 @@ Ressource utilisation : [NORPS-12](https://github.com/pierron-asco-celda/33183-P
 
 ### Arduino / C++ :
 ```cpp
-//Baud rate 115200
+/*
+    ** Mesure Luminosité module Grove **
+       PIN A0 Module shield GROVE
+       Baud rate 115200 -> Moniteur série
+*/
 
 #include <Arduino.h>
 #include <SoftwareSerial.h>
