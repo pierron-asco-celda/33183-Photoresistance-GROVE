@@ -27,7 +27,7 @@ Ressource utilisation : [NORPS-12](https://github.com/pierron-asco-celda/33183-P
 /*
     ** Mesure Luminosité module Grove **
        PIN A0 Module shield GROVE
-       Baud rate 115200 -> Moniteur série
+       Baud rate 115200 -> Moniteur série*
 */
 
 #include <Arduino.h>
@@ -47,5 +47,7 @@ void loop() {
 }
 ```
 ## À propos :
+<div style="text-align: justify">*Le débit en bauds est un taux de transfert de données en unités de bits par seconde (bps). Si le débit en bauds est de 9600, cela signifie que la possibilité d’envoyer des données est de 9600 bits en une seconde. 1 caractère est identique à 1 octet.</div>
+<br>
 
 PIERRON ASCO-CELDA (https://www.pierron.fr/).
